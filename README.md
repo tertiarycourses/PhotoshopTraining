@@ -1,5 +1,5 @@
 # Adobe Photoshop CC Essential Training
-## by [Tertiary Infotech Pte. Ltd] (https://www.tertiarycourses.com.sg/)
+## by [Tertiary Infotech Pte. Ltd](https://www.tertiarycourses.com.sg/)
 
 These are the exercise files used for [Adobe Photoshop CC Essential Training](https://www.tertiarycourses.com.sg/adobe-photoshop-cc-essential-training.html) course. 
 
