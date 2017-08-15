@@ -6,6 +6,7 @@ These are the exercise files used for [Adobe Photoshop CC Essential Training](ht
 The course outline can be found in 
 
 https://www.tertiarycourses.com.sg/adobe-photoshop-cc-essential-training.html
+https://www.tertiarycourses.com.my/adobe-photoshop-cc-essential-training-malaysia.html
 
 <p><strong>1. Photoshop Interface Essentials</strong></p>
 <ul>
